@@ -24,6 +24,9 @@ Builders' Organizer is a tool for master builders to organize and manage their s
 - Stripe Integration
 - Quickbooks Integration
 
+### Phase III Features
+- Mobile App
+
 
 ## Installation
 
